@@ -21,12 +21,13 @@ https://www.kaggle.com/datasets/cankrdmr/rotten-and-fresh-fruit <br/>
 ![WhatsApp Image 2022-04-11 at 15 53 06](https://user-images.githubusercontent.com/69106446/169070839-49ce2d6a-9274-4e8f-ae03-557aa2c5df3f.jpeg)
 ![elma](https://user-images.githubusercontent.com/88190816/169276518-ad5e3ab1-02eb-4216-92ba-29845c317357.png)
 ![Çürük muzlar](https://user-images.githubusercontent.com/88190816/169276575-bfe32f5e-30aa-4096-9012-a41acc77182e.jpg)
-![taze portakal](https://user-images.githubus![üçlü](https://user-images.githubusercontent.com/88190816/169276716-f5b72a9a-5c56-4cec-9b9f-7bf20eccd3ce.png)
+![portakalson](https://user-images.githubusercontent.com/88190816/169277150-2a2bc950-bc3c-488d-b603-8fcd57ba189f.png)
 ![üçlü](https://user-images.githubusercontent.com/88190816/169276766-1b8b5f4d-516b-4a37-98fe-b5803dba1618.png)
 
 ## Prequisites
 You don't need to install anything since its written in Google Colab which is a cloud service
 - Copy this repository link into the Custom_webcam https://colab.research.google.com/drive/1LogYakbaEIAaeV7p_aP8ZhcSseYC1Jkz
+
 
 
 
