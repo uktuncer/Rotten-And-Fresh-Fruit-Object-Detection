@@ -28,7 +28,8 @@ https://www.kaggle.com/datasets/cankrdmr/rotten-and-fresh-fruit <br/>
 You don't need to install anything since its written in Google Colab which is a cloud service
 - Copy this repository link into the Custom_webcam https://colab.research.google.com/drive/1LogYakbaEIAaeV7p_aP8ZhcSseYC1Jkz
 
-## Project Maker = Umut Kürşat TUNCER
+## Project Maker 
+-Umut Kürşat TUNCER
 
 
 
