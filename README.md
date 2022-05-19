@@ -1,6 +1,6 @@
 # Fresh-Rotten-Fruits-Predictor
 --This is a software engineering course project assignment-- <br/>
-I am making an object detection project that can easily detection fresh and rotten fruits from fruit images.
+I made an object detection project that can easily detect fresh and rotten fruits from fruit images with a camera.
 
 ## Before You Begin
  First of all, click on this link = https://drive.google.com/drive/folders/1RSahGjP8M2kaV35SluWCIjIcbYRgNGO4?usp=sharing , go to the link and download the content, create a folder named yolov3 and add the downloaded content to your drive address. That's all, then go to the colab webcam note book from the link below and connect the virtual machine and connect your own drive to colab. All it takes is to run the steps in the notepad, when you do all the steps, your webcam will work and you can now do object detection. 
