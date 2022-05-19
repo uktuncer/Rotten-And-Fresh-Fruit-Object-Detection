@@ -4,7 +4,7 @@ I made an object detection project that can easily detect fresh and rotten fruit
 
 ## Before You Begin
  First of all, click on this link = https://drive.google.com/drive/folders/1RSahGjP8M2kaV35SluWCIjIcbYRgNGO4?usp=sharing , go to the link and download the content, create a folder named yolov3 and add the downloaded content to your drive address. That's all, then go to the colab webcam note book from the link below and connect the virtual machine and connect your own drive to colab. All it takes is to run the steps in the notepad, when you do all the steps, your webcam will work and you can now do object detection. 
- I will share the dataset that we use for training with you via kaggle in case you want, you can find it under.
+ I will share the dataset that I use for training with you via kaggle in case you want, you can find it under.
  Datasets, but the drive link that I gave above is also in the backup folder, the weight file is already the trained version of the dataset that we shared on the kaggle link.
 
 ## Datasets
@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/cankrdmr/rotten-and-fresh-fruit <br/>
 You don't need to install anything since its written in Google Colab which is a cloud service
 - Copy this repository link into the Custom_webcam https://colab.research.google.com/drive/1LogYakbaEIAaeV7p_aP8ZhcSseYC1Jkz
 
-
+## Project Maker = Umut Kürşat TUNCER
 
 
 
