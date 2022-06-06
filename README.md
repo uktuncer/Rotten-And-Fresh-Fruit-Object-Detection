@@ -1,5 +1,4 @@
 # Fresh-Rotten-Fruits-Predictor
---This is a software engineering course project assignment-- <br/>
 I made an object detection project that can easily detect fresh and rotten fruits from fruit images with a camera.
 
 ## Before You Begin
